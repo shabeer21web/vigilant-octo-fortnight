@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shabeer 👋
 ### Data Scientist & Economist | Freelance Analytics Consultant
 
 I help businesses, researchers, and organizations turn complex economic data and messy datasets into clear, profitable decisions. 
